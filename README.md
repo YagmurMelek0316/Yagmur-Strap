@@ -1,2 +1,119 @@
-# Yagmur-Strap
-Yagmur Strap
+[
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1794950635.981756,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "netflix-sans-normal-3-loaded",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1802726271.251799,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "SecureNetflixId",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "v%3D3%26mac%3DAQEAEQABABTtMBNXf6h7pIPp9XCxMN_3RhVBvfhs5PE.%26dt%3D1787174269011"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1787176685.596994,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "profilesNewSession",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "0"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1787260671.252002,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "gsid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "397d2713-8e28-49f5-a17c-4c0f41863775"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1802726271.251891,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "NetflixId",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ct%3DBgjHlOvcAxKKBElu0HgGGwPixdu_zphjVyc9m-FTguCHGw1AVy4_RTYdckF4b_jmLKNGbSy1gZ7f8uIVOUFS7lK9LHDOCkGtMv4Un7tSDCiN7Sx6G9Yhcu2qZQNelTs3BNuPUz2nmSz0PcVCW7d4u8-WIp-gDM41_hx9OWlOHx2u4jy7LkTJGCSwycO-BsKykbpfGOJuOL9rS7pGLjL5QXMFaYa6Oi_PvkfRFW9RcuIjHdWd1SxKLC3no-6guLYEwZ6np66m3VAFNmuOdSJx4rCETxOpv-tHhjZN2fBtk9QXdfuElqMwkf8_Ah_F4cCYwoS7GoHfwr0jkRSMM4tD5U4_QQOP40gO-1fTeElMKCGGDEySMUpRVGWmPwGup-55y7hhi47dY5K7D6uiM4319VMyc453WqhGVgpb3jE3xH67mgUZ7c0vXV4az_Wdi_QvmEjzq41ZusasJRts-gZa_YgVBRpAAuxyjxPAuYvvPh9mRTehBO3qB6MhZWFdN8_YWgQJn3YtlompWQO1e9TepriYhGHKjZ47wYZjIEQrlP78veeu8UiwijNUqktIWdBGlZInk48BVxFV4zlfqZm3r1tFLy66an65ytICM2K0I5wxLQ3_5WcvsKPElzU3II_Z8jSaEBDnM-9IYacPY3mPOVklszKtfaAPIa39-M3k5CYsfFKqEzg0BvEOtvytM5-w9S_nKRgGIg4KDGe7X11PGGUarq1khg..%26ch%3DAQEAEAABABRJazgb6WQ0_5SvCoWquImIWRTOMG37ZsE.%26v%3D3%26pg%3DBDPG3WNR3RD65AIXR2NY4AJD64"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1794950635.981557,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "pas",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1787185435.981988,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "flwssn",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "945bc989-96ae-4f5f-915b-64c532b07ecc"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1794950635.981879,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "netflix-sans-bold-3-loaded",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "expirationDate": 1799277844.981179,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "nfvdid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "BQFmAAEBEFELH2kQsFt8AolIYs0npeZg1j0d0dj_UWygt1c8o6d_Ix5UeFDgsi0v0Czj7LlC9BtMpbOu5hvoo9NCYJDHl3S4EKU2L2FtDdOvX1RlbDQc_TCNeKaf8XmkltGub_uhi_sHm-rF2RoqXk--EInFuYRk"
+    }
+]
